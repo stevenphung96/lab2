@@ -32,3 +32,13 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+P {
+		font-variant: small-caps;
+}
+
+#project1 {
+		font-variant: small-caps;
+}
+
+
